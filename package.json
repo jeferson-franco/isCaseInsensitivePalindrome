@@ -1,0 +1,20 @@
+{
+    "name": "iscaseinsensitivepalindrome",
+    "version": "1.0.0",
+    "description": "Given a string, check if it can become a palindrome through a case change of some (possibly, none) letters.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jeferson-franco/isCaseInsensitivePalindrome.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jeferson-franco/isCaseInsensitivePalindrome/issues"
+    },
+    "homepage": "https://github.com/jeferson-franco/isCaseInsensitivePalindrome#readme"
+}
